@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/Carry/Code/workSapce/Eros/eros-template/platforms/android/WeexFrameworkWrapper/eros-nexus/libs/SocialSDK_WeChat_Simplify.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/eros-nexus/libs/SocialSDK_WeChat_Simplify.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
