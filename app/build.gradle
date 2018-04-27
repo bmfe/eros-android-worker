@@ -109,4 +109,6 @@ dependencies {
     //    compile 'com.benmu.eros:plugin-wxpay:latest.integration'
     //    compile 'com.benmu.eros:plugin-wxshare:latest.integration'
     compile project(':eros-framework')
+
+
 }
