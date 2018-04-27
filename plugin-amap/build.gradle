@@ -30,7 +30,7 @@ dependencies {
     //高德地图
     compile 'com.amap.api:location:latest.integration'
     compile 'com.amap.api:3dmap:latest.integration'
-    compile project(':eros-nexus')
+    compile 'com.github.bmfe:eros-android-worker:nexus_v1.0.0'
 }
 
 
