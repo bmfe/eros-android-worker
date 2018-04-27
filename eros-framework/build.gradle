@@ -1,8 +1,5 @@
 apply plugin: 'com.android.library'
-//apply plugin: 'com.novoda.bintray-release'
-//apply plugin: 'maven'
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.aa453509345'
+
 android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
@@ -69,7 +66,7 @@ dependencies {
     compile 'com.journeyapps:zxing-android-embedded:3.4.0'
     compile 'com.github.bumptech.glide:glide:3.7.0'
     compile 'com.github.chrisbanes.photoview:library:1.2.4'
-//    compile project(':eros-nexus')
+    compile project(':eros-nexus')
     compile 'com.android.support:multidex:1.0.1'
     //bs patch
     compile 'me.ele:bspatch:1.0.6'
@@ -79,7 +76,7 @@ dependencies {
     compile 'com.alibaba.android:bindingx-core:1.0.1'
     compile 'com.alibaba.android:bindingx_weex_plugin:1.0.2'
     compile 'org.weex.plugin:plugin-loader:1.0.0'
-    compile 'com.github.bmfe:eros-android-worker:nexus_v1.0.0'
+
 }
 
 //publish {

@@ -10,6 +10,8 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/eros-framework" />
+            <option value="$PROJECT_DIR$/eros-nexus" />
+            <option value="$PROJECT_DIR$/plugin-amap" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
