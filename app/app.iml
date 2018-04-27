@@ -140,6 +140,7 @@
     <orderEntry type="library" exported="" name="Gradle: com.android.support:animated-vector-drawable-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-compat-25.3.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.android.support.test:rules-0.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: com.github.bmfe:eros-android-worker-nexus_v1.0.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.weex.plugin:plugin-loader-1.0.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.taobao.android:weex_inspector-0.13.4" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: com.google.code.findbugs:jsr305:2.0.1@jar" level="project" />
@@ -160,6 +161,5 @@
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-vector-drawable-25.3.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-core-utils-25.3.1" level="project" />
     <orderEntry type="module" module-name="eros-framework" exported="" />
-    <orderEntry type="module" module-name="eros-nexus" exported="" />
   </component>
 </module>

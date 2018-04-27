@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/WeexFrameworkWrapper.iml" filepath="$PROJECT_DIR$/WeexFrameworkWrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/eros-framework/eros-framework.iml" filepath="$PROJECT_DIR$/eros-framework/eros-framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/eros-nexus/eros-nexus.iml" filepath="$PROJECT_DIR$/eros-nexus/eros-nexus.iml" />
     </modules>
   </component>
 </project>
