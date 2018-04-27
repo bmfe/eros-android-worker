@@ -11,211 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2771b25-067d-4fb1-af35-3bf03bae509b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_Carry_Code_workSapce_Eros_eros_template_platforms_android_WeexFrameworkWrapper_eros_nexus_libs_SocialSDK_WeChat_Simplify_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_Carry_Code_workSapce_Eros_eros_template_platforms_android_WeexFrameworkWrapper_eros_nexus_libs_otto_1_3_5_jar_unspecified_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_android_bindingx_core_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_android_bindingx_weex_plugin_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_alibaba_fastjson_1_2_31_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_25_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_25_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_25_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_25_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_getkeepsafe_relinker_relinker_1_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_3_7_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_chrisbanes_photoview_library_1_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_2_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_journeyapps_zxing_android_embedded_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_lzy_widget_imagepicker_0_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_3_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_ws_2_3_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_13_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_8_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_taobao_android_weex_analyzer_0_1_0_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_taobao_android_weex_inspection_protocol_1_1_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_taobao_android_weex_inspector_0_13_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_taobao_android_weex_sdk_0_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__me_ele_bspatch_1_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_weex_plugin_annotation_1_0_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_weex_plugin_plugin_loader_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_weex_plugin_processor_1_0_2_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-framework/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-framework/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-framework/eros-framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/eros-nexus.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/libs/SocialSDK_WeChat_Simplify.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/libs/otto-1.3.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/androidTest/java/com/benmu/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/android/support/v4/view/BetterViewPager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/BMWXEnvironment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/adapter/DefaultStorageAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/adapter/router/RouterTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/constant/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/constant/WXEventCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/event/DispatchEventCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/BMPersistentCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/OkHttpUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/GetBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/HasParamsable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/HeadBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/OkHttpRequestBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/OtherRequestBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/PostFileBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/PostFormBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/builder/PostStringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/BitmapCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/Callback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/FileCallBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/GenericsCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/IGenericsSerializator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/callback/StringCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/CookieJarImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/store/CookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/store/HasCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/store/MemoryCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/store/PersistentCookieStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/cookie/store/SerializableHttpCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/exception/CancelException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/exception/HttpException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/exception/IrregularUrlException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/https/HttpsUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/log/LoggerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/CountingRequestBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/GetRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/OkHttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/OtherRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/PostFileRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/PostFormRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/PostStringRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/request/RequestCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/utils/Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/utils/ImageUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/utils/L.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/http/okhttp/utils/Platform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/ManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/StorageManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/impl/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/impl/ParseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/impl/PermissionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/impl/dispatcher/DispatchEventManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/manager/impl/dispatcher/MainThreadBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/model/BaseEventBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/model/BaseResultBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/model/PlatformConfigBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/model/UniversalResultModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/model/WeexEventBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/BMHookGlide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/DebugableUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/ImageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/JsPoster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/L.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/ResourceUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/SharePreferenceUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/framework/utils/ZipUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/utils/BaseCommonUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/utils/ColorUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/utils/FunctionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/utils/SingleFunctionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMAlert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMFloatingLayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMGridDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMLoding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMPartLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMReceiverTextView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BMSimpleSeekBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/BaseToolBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/DebugErrorDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/MaterialCircleView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/MaxScrollView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/AnimatorListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarPager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarPagerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarPagerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CalendarUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/CustomerStyle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DateRangeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DayView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DayViewDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DayViewFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DecoratorResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/DirectionButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/Experimental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/MaterialCalendarView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/MonthPagerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/MonthView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/OnDateSelectedListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/OnMonthChangedListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/OnRangeSelectedListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/TitleChanger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/WeekDayView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/WeekPagerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/WeekView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/ArrayWeekDayFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/CalendarWeekDayFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/DateFormatDayFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/DateFormatTitleFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/DayFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/MonthArrayTitleFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/TitleFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/format/WeekDayFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/calendar/spans/DotSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/widget/view/loading/LoadingDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/wxbase/EventGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/java/com/benmu/wxbase/EventGateFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/bottom_in.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/bottom_out.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/dialog_enter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/dialog_exit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svfade_in_center.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svfade_out_center.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svslide_in_bottom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svslide_in_top.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svslide_out_bottom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/anim/svslide_out_top.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/color/mcv_text_date_light.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/ic_svstatus_error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/ic_svstatus_info.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/ic_svstatus_loading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/ic_svstatus_success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/icon_backnav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/loading_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/mcv_action_next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/mcv_action_previous.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable-xhdpi/place_holder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/bg_black.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/bg_overlay_gradient.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/bg_svprogresshuddefault.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/dialog_loading.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/floatlayer_bg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/drawable/shape_round_rectange.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/dialog_debug_error_layout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/dialog_progress_layout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_animloading.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_custom_toolbar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_dialog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_floatlayer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_grid_dialog.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_grid_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_svprogresshud.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/layout_top.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/layout/view_svprogressdefault.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/Integer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/attrs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/ids.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/main/res/values/style.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eros-nexus/src/test/java/com/benmu/ExampleUnitTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="e2771b25-067d-4fb1-af35-3bf03bae509b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -242,11 +38,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/eros-nexus/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+            <state relative-caret-position="645">
+              <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -314,12 +110,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="549">
+              <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -5780,51 +5576,6 @@
               <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
               <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WeexFrameworkWrapper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WeexFrameworkWrapper" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wx" type="462c0819:PsiDirectoryNode" />
-              <item name="activity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -6021,10 +5772,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="74" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info id="Build Variants" side_tool="true" />
@@ -6032,13 +5782,13 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32977587" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32892057" />
       <window_info anchor="bottom" id="Logcat" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32892057" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info anchor="bottom" id="Build" weight="0.32892057" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" />
@@ -6111,13 +5861,6 @@
     <entry file="file://$PROJECT_DIR$/eros-nexus/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/eros-nexus/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/benmu/wx/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -6167,8 +5910,15 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="549">
+          <caret line="53" column="45" lean-forward="true" selection-start-line="53" selection-start-column="45" selection-end-line="53" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eros-nexus/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="51" lean-forward="true" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
         </state>
       </provider>
     </entry>
